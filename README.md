@@ -24,6 +24,7 @@ Word clouds are generated to visually represent the most frequent terms in both 
 Unbalanced and Unclean Datasets for each iPhone model:
 
 ***All datasets were found on Kaggle***
+
 apple_iphone_11_reviews.csv - shows reviews of iPhone model 11
 
 APPLE_iPhone_SE.csv - shows reviews of iPhone model SE
